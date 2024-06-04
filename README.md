@@ -12,6 +12,24 @@ My current operating systems
     <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
   </a>
 </p>
+## Technology stack
+<p align="justify">
+For professional development
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,go,matlab,mysql,postgres,docker,jenkins,postman,git,redis" />
+  </a>
+</p>
+<p align="justify">
+For fun
+</p>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,ts" />
+  </a>
+</p>
 <!--
 **megaredsss/megaredsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
