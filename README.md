@@ -12,6 +12,7 @@ My current operating systems
     <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
   </a>
 </p>
+
 ## Technology stack
 <p align="justify">
 For professional development
