@@ -1,5 +1,8 @@
 ## Hello there
-![ezgif-4-b522f208f2](https://github.com/megaredsss/megaredsss/assets/58664975/7b291c32-65e8-4399-ba6f-9844cc30f68a)
+<p align="center">
+  ![ezgif-4-b522f208f2](https://github.com/megaredsss/megaredsss/assets/58664975/7b291c32-65e8-4399-ba6f-9844cc30f68a)
+</p>
+
 
 <!--
 **megaredsss/megaredsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
