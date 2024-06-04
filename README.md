@@ -3,7 +3,12 @@
   <img src="https://github.com/megaredsss/megaredsss/assets/58664975/9b678456-fd63-4690-8542-0e5de11e100f" alt="animated"/>
 </p>
 
-
+## My OC
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+  </a>
+</p>
 <!--
 **megaredsss/megaredsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
