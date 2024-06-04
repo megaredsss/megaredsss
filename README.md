@@ -4,6 +4,9 @@
 </p>
 
 ## My OC
+<p align="justify">
+My current operating systems
+</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
