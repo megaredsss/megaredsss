@@ -1,6 +1,6 @@
 ## Hello there
 <p align="center">
-  ![ezgif-4-b522f208f2](https://github.com/megaredsss/megaredsss/assets/58664975/7b291c32-65e8-4399-ba6f-9844cc30f68a)
+  <img src="![ezgif-4-b522f208f2](https://github.com/megaredsss/megaredsss/assets/58664975/9b678456-fd63-4690-8542-0e5de11e100f)" alt="animated"/>
 </p>
 
 
