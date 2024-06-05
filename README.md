@@ -31,6 +31,8 @@ For fun
     <img src="https://skillicons.dev/icons?i=cpp,python,ts" />
   </a>
 </p>
+## Stats
+![Metrics](/github-metrics.svg)
 <!--
 **megaredsss/megaredsss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
