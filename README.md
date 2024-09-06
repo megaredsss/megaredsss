@@ -19,7 +19,7 @@ For professional development
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,lua,matlab,mysql,postgres,docker,jenkins,postman,git,redis" />
+    <img src="https://skillicons.dev/icons?i=java,go,matlab,lua,mysql,postgres,docker,jenkins,postman,git,redis" />
   </a>
 </p>
 <p align="justify">
@@ -29,6 +29,15 @@ For fun
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,ts" />
+  </a>
+</p>
+<p align="justify">
+My IDE and code editors
+</p>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,neovim,vscodium,idea" />
   </a>
 </p>
 <!--
