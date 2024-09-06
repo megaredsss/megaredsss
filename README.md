@@ -9,7 +9,7 @@ My current operating systems
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@ For professional development
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,matlab,mysql,postgres,docker,jenkins,postman,git,redis" />
+    <img src="https://skillicons.dev/icons?i=java,go,lua,matlab,mysql,postgres,docker,jenkins,postman,git,redis" />
   </a>
 </p>
 <p align="justify">
