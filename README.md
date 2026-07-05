@@ -9,7 +9,7 @@ My current operating systems
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fedora,linux,arch,ubuntu,windows" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@ For professional development
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,matlab,lua,mysql,postgres,docker,jenkins,postman,git,redis" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,rust,java,c,matlab,lua,mysql,postgres,docker,kubernetes,jenkins,gitlab,redis,kafka,rabbitmq" />
   </a>
 </p>
 <p align="justify">
